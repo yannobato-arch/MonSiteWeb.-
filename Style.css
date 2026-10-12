@@ -33,7 +33,15 @@ section {
   padding: 22px; 
   background: white; 
   border-radius: 8px; 
+ 
 } 
+ #apropos{
+    width: 25%;
+    padding: 10px;
+    text-align: center;
+    background:yellowgreen ;
+    
+ }
 footer { 
 padding: 12px; 
 text-align: center; 
