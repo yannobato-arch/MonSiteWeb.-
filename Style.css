@@ -46,6 +46,10 @@ section {
     background-color: #222;
     color: aquamarine;
  }
+ #temoignages{
+  background: purple;
+  align-items: center;
+ }
 footer { 
 padding: 12px; 
 text-align: center; 
